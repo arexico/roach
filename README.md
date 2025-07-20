@@ -23,7 +23,6 @@ npm install -g @arexico/roach
 ### Interactive Mode
 
 ```bash
-# Start the interactive terminal interface
 roach
 ```
 
